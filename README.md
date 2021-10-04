@@ -17,6 +17,7 @@ Get ready for some crazy days of bugs,typos,erros and fun.... </h4> </h1></p>
 <li>Each Language folder contains the readme which will guide you how to do the tasks in it.</li>
 <li>Find the bug 🐞,correct it ✅ and make a PR ,let's see who rules the leaderboard 🥇.</li>
 <li>Create relevant issues and get your PR merged after approval.</li>
+<li> No PR will be accepted without an issue. Create an issue first</li>
 </ul>
 <hr>
 
