@@ -14,10 +14,9 @@ Get ready for some crazy days of bugs,typos,erros and fun.... </h4> </h1></p>
 <ul>
 
 <strong>Hactoberfest2021</strong></li>
-<li>Each Language folder contains the readme which will guide you how to do the tasks in it.</li>
-<li>Find the bug 🐞,correct it ✅ and make a PR ,let's see who rules the leaderboard 🥇.</li>
+<li>Find the bug 🐞,correct it ✅ and make an issue if u find a bug followed by a PR ,let's see who rules the leaderboard 🥇.</li>
 <li>Create relevant issues and get your PR merged after approval.</li>
-<li> No PR will be accepted without an issue. Create an issue first</li>
+<li> No PR will be accepted without an issue. </li>
 <li> Find issues in existing code /optimise them/ add functionality </li>
 </ul>
 <hr>
